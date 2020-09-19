@@ -54,3 +54,9 @@ Bachelor of Arts (BA), Economics · (2011 - 2014)
 1. Chevron Data Science Development Program  · (2020 - 2021)
 1. The University of Texas at Austin
 Bachelor of Science (BS), Petroleum Engineering · (2011 - 2014)
+
+## Languages
+* English (Professional Working)
+* Kazakh (Native or Bilingual)
+* Russian (Native or Bilingual)
+
