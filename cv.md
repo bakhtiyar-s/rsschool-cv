@@ -59,4 +59,3 @@ Bachelor of Science (BS), Petroleum Engineering · (2011 - 2014)
 * English (Professional Working)
 * Kazakh (Native or Bilingual)
 * Russian (Native or Bilingual)
-
